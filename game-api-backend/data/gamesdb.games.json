@@ -1,0 +1,672 @@
+[{
+  "_id": {
+    "$oid": "681d0e737fad01167cba1d48"
+  },
+  "name": "FIFA 23",
+  "type": "Sports",
+  "description": "Experience the pinnacle of football simulation with hyper-realistic gameplay, updated squads, and major tournaments. Lead your favorite club or country to glory in various game modes.",
+  "imageUrl": "https://static.actu.fr/uploads/2022/11/fifa23.jpg",
+  "releaseDate": {
+    "$date": "2022-09-30T00:00:00.000Z"
+  },
+  "publisher": "EA Sports",
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2025-05-08T20:05:07.316Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:05:07.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0ea87fad01167cba1d4b"
+  },
+  "name": "Resident Evil Village",
+  "type": "Horror",
+  "description": "Ethan Winters' story continues in a mysterious European village teeming with mutant creatures and sinister lords. Fight for survival with limited resources in this terrifying first-person horror experience.",
+  "imageUrl": "https://img.youtube.com/vi/36Ljcq6r_LM/maxresdefault.jpg",
+  "releaseDate": {
+    "$date": "2021-05-07T00:00:00.000Z"
+  },
+  "publisher": "Capcom",
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2025-05-08T20:06:00.037Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:06:00.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0ec57fad01167cba1d4d"
+  },
+  "name": "Shadow of the Tomb Raider",
+  "type": "Action",
+  "description": "Lara Croft must master a deadly jungle, overcome terrifying tombs, and persevere through her darkest hour as she races to save the world from a Maya apocalypse.",
+  "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/750920/capsule_616x353.jpg?t=1729014037",
+  "releaseDate": {
+    "$date": "2018-09-14T00:00:00.000Z"
+  },
+  "publisher": "Square Enix",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2025-05-08T20:06:29.339Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:06:29.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0ed07fad01167cba1d4f"
+  },
+  "name": "Devil May Cry 5",
+  "type": "Action",
+  "description": "Legendary demon hunters Dante, Nero, and the mysterious V face their most formidable demonic threat yet. Unleash stylish combos and over-the-top action in this critically acclaimed hack-and-slash.",
+  "imageUrl": "https://i.ytimg.com/vi/dG6_CAdiLPM/maxresdefault.jpg",
+  "releaseDate": {
+    "$date": "2019-03-08T00:00:00.000Z"
+  },
+  "publisher": "Capcom",
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2025-05-08T20:06:40.577Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:06:40.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0edb7fad01167cba1d51"
+  },
+  "name": "Assassin's Creed Valhalla",
+  "type": "Action",
+  "description": "Become Eivor, a legendary Viking warrior, and lead your clan from the harsh shores of Norway to a new home in ninth-century England. Explore a dynamic and beautiful open world.",
+  "imageUrl": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC%20KINGDOM%20PREORDER_STANDARD%20EDITION_EPIC_Key_Art_Wide_3840x2160-3840x2160-485fe17203671386c71bde8110886c7d.jpg?resize=1&w=480&h=270&quality=medium",
+  "releaseDate": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "publisher": "Ubisoft",
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2025-05-08T20:06:51.180Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:06:51.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0ee77fad01167cba1d53"
+  },
+  "name": "Grand Theft Auto V",
+  "type": "Action",
+  "description": "Explore the sprawling metropolis of Los Santos and Blaine County in this critically acclaimed open-world adventure. Switch between three protagonists as you pull off daring heists and navigate a life of crime.",
+  "imageUrl": "https://ds.static.rtbf.be/article/image/1920x1080/7/7/1/9333ea2a4f6bd2a5535247bfe989a053.jpg",
+  "releaseDate": {
+    "$date": "2013-09-17T00:00:00.000Z"
+  },
+  "publisher": "Rockstar Games",
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2025-05-08T20:07:03.453Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:07:03.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0ef37fad01167cba1d55"
+  },
+  "name": "Need for Speed Unbound",
+  "type": "Racing",
+  "description": "Race against time, outsmart the cops, and take on weekly qualifiers to reach The Grand, Lakeshore's ultimate street racing challenge. Customize your rides and express your style.",
+  "imageUrl": "https://media.contentapi.ea.com/content/dam/ea/need-for-speed-unbound/common/vol-9/vol-9-blog/nfs-vol09-heroart-1920x1080-text-1.jpg.adapt.crop191x100.1200w.jpg",
+  "releaseDate": {
+    "$date": "2022-12-02T00:00:00.000Z"
+  },
+  "publisher": "Electronic Arts",
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2025-05-08T20:07:15.742Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:07:15.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0efe7fad01167cba1d57"
+  },
+  "name": "Fortnite",
+  "type": "Battle_Royale",
+  "description": "Jump into a massive 100-player face-off that combines looting, crafting, shootouts and chaos. Build, battle, and survive to be the last one standing in this ever-evolving online game.",
+  "imageUrl": "https://cdn1.epicgames.com/offer/fn/FNBR_35-00_C6MS1_EGS_Launcher_KeyArt_FN_Blade_2560x1440_2560x1440-8fd35061502b51f1df276474d28e7f59",
+  "releaseDate": {
+    "$date": "2017-07-25T00:00:00.000Z"
+  },
+  "publisher": "Epic Games",
+  "rating": 4.3,
+  "createdAt": {
+    "$date": "2025-05-08T20:07:26.289Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:07:26.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0f097fad01167cba1d59"
+  },
+  "name": "PUBG: Battlegrounds",
+  "type": "Battle_Royale",
+  "description": "Land, loot, and outwit your opponents to become the last player left standing in a thrilling game experience full of unexpected, adrenaline-pumping moments. Tactical gunplay and realistic environments.",
+  "imageUrl": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-16v1j.jpg",
+  "releaseDate": {
+    "$date": "2017-12-20T00:00:00.000Z"
+  },
+  "publisher": "Krafton",
+  "rating": 4.1,
+  "createdAt": {
+    "$date": "2025-05-08T20:07:37.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:07:37.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0f157fad01167cba1d5b"
+  },
+  "name": "The Last of Us Part I",
+  "type": "Action",
+  "description": "In a ravaged civilization, where infected and hardened survivors roam, Joel, a weary protagonist, is hired to smuggle 14-year-old Ellie out of a military quarantine zone. A brutal, emotional journey.",
+  "imageUrl": "https://cdn1.epicgames.com/offer/0c40923dd1174a768f732a3b013dcff2/EGS_TheLastofUsPartI_NaughtyDogLLC_S2_1200x1600-41d1b88814bea2ee8cb7986ec24713e0",
+  "releaseDate": {
+    "$date": "2022-09-02T00:00:00.000Z"
+  },
+  "publisher": "Sony Interactive Entertainment",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2025-05-08T20:07:49.866Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:07:49.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0f207fad01167cba1d5d"
+  },
+  "name": "Star Wars Battlefront II (2017)",
+  "type": "FPS",
+  "description": "Embark on an endless Star Wars action experience. Battle on iconic planets and rise through the ranks playing as heroes, villains, troopers, or starfighter pilots in massive multiplayer engagements.",
+  "imageUrl": "https://media.contentapi.ea.com/content/dam/walrus/fr-fr/migrated-images/2017/04/reveal-swbf2-fb-meta-image-alt.png.adapt.crop191x100.1200w.png",
+  "releaseDate": {
+    "$date": "2017-11-17T00:00:00.000Z"
+  },
+  "publisher": "Electronic Arts",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2025-05-08T20:08:00.518Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:08:00.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0f2a7fad01167cba1d5f"
+  },
+  "name": "Star Wars Jedi: Survivor",
+  "type": "Action",
+  "description": "The story of Cal Kestis continues in this third-person action-adventure. No longer a Padawan, Cal has come into his own and grown into a powerful Jedi Knight, carrying the hopes of the galaxy.",
+  "imageUrl": "https://www.geekgeneration.fr/wp-content/uploads/2023/03/Star-Wars-Jedi-Survivor.jpg",
+  "releaseDate": {
+    "$date": "2023-04-28T00:00:00.000Z"
+  },
+  "publisher": "Electronic Arts",
+  "rating": 4.7,
+  "createdAt": {
+    "$date": "2025-05-08T20:08:10.794Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:08:10.794Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0f347fad01167cba1d61"
+  },
+  "name": "The Witcher 3: Wild Hunt",
+  "type": "RPG",
+  "description": "As Geralt of Rivia, a monster slayer for hire, explore a vast, war-torn, and morally ambiguous open world. Track down the child of prophecy in this story-driven RPG masterpiece.",
+  "imageUrl": "https://gepig.com/game_cover_460w/1879.jpg",
+  "releaseDate": {
+    "$date": "2015-05-19T00:00:00.000Z"
+  },
+  "publisher": "CD Projekt Red",
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2025-05-08T20:08:20.507Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:08:20.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0f3e7fad01167cba1d63"
+  },
+  "name": "Cyberpunk 2077",
+  "type": "RPG",
+  "description": "An open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification. Play as V, a mercenary outlaw going after a one-of-a-kind implant.",
+  "imageUrl": "https://www.cyberpunk.net/build/images/social-thumbnail-en-ddcf4d23.jpg",
+  "releaseDate": {
+    "$date": "2020-12-10T00:00:00.000Z"
+  },
+  "publisher": "CD Projekt Red",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2025-05-08T20:08:30.117Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:08:30.117Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0f477fad01167cba1d65"
+  },
+  "name": "Call of Duty: Modern Warfare II (2022)",
+  "type": "FPS",
+  "description": "Squad up and fight alongside the iconic operators of Task Force 141 in a globe-trotting single-player campaign, immersive multiplayer combat, and an evolved Special Ops game mode.",
+  "imageUrl": "https://cdn12.idcgames.com/storage/image/1369/multiplayer/default.jpg",
+  "releaseDate": {
+    "$date": "2022-10-28T00:00:00.000Z"
+  },
+  "publisher": "Activision",
+  "rating": 4.3,
+  "createdAt": {
+    "$date": "2025-05-08T20:08:39.776Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:08:39.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0f517fad01167cba1d67"
+  },
+  "name": "Sid Meier's Civilization VI",
+  "type": "Strategy",
+  "description": "Build an empire to stand the test of time. Explore a new land, research technology, conquer your enemies, and go head-to-head with history’s most renowned leaders as you attempt to build the greatest civilization.",
+  "imageUrl": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_SidMeiersCivilizationVI_image1600w.jpg",
+  "releaseDate": {
+    "$date": "2016-10-21T00:00:00.000Z"
+  },
+  "publisher": "2K Games",
+  "rating": 4.7,
+  "createdAt": {
+    "$date": "2025-05-08T20:08:49.176Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:08:49.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0f5a7fad01167cba1d69"
+  },
+  "name": "Portal 2",
+  "type": "Puzzle",
+  "description": "A hilariously mind-bending adventure that challenges you to use wits over weaponry in a funhouse of diabolical science. Wield the highly experimental portal device to solve brain-twisting puzzles.",
+  "imageUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/ncom/software/switch/70010000050313/75484f73fedd25cb830c5d93fbb3fca643a5ec0b09df2815291ead880bc7d6b1",
+  "releaseDate": {
+    "$date": "2011-04-19T00:00:00.000Z"
+  },
+  "publisher": "Valve",
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2025-05-08T20:08:58.789Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:08:58.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0f657fad01167cba1d6b"
+  },
+  "name": "Microsoft Flight Simulator (2020)",
+  "type": "Simulation",
+  "description": "Take to the skies and experience the joy of flight in the next generation of Microsoft Flight Simulator. Travel the world in amazing detail with over 37 thousand airports, 2 million cities, and real-world weather.",
+  "imageUrl": "https://i.ytimg.com/vi/TYqJALPVn0Y/maxresdefault.jpg",
+  "releaseDate": {
+    "$date": "2020-08-18T00:00:00.000Z"
+  },
+  "publisher": "Xbox Game Studios",
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2025-05-08T20:09:09.273Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:09:09.273Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0f727fad01167cba1d6d"
+  },
+  "name": "Elden Ring",
+  "type": "RPG",
+  "description": "Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between. A vast world brimming with excitement and mystery.",
+  "imageUrl": "https://www.allkeyshop.com/blog/wp-content/uploads/elden-ring-title-1024x536.webp",
+  "releaseDate": {
+    "$date": "2022-02-25T00:00:00.000Z"
+  },
+  "publisher": "Bandai Namco Entertainment",
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2025-05-08T20:09:22.670Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:09:22.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0f7c7fad01167cba1d6f"
+  },
+  "name": "God of War Ragnarök",
+  "type": "Action",
+  "description": "Kratos and Atreus embark on a mythic journey for answers and allies before Ragnarök arrives. Explore stunning mythological landscapes, battling Norse gods and monsters.",
+  "imageUrl": "https://gwak.fr/wp-content/uploads/2022/11/5-29.webp",
+  "releaseDate": {
+    "$date": "2022-11-09T00:00:00.000Z"
+  },
+  "publisher": "Sony Interactive Entertainment",
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2025-05-08T20:09:32.843Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:09:32.843Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0f877fad01167cba1d71"
+  },
+  "name": "The Elder Scrolls V: Skyrim",
+  "type": "RPG",
+  "description": "An epic fantasy RPG where you are the Dragonborn, a hero with the power of The Voice. Explore a massive open world, battle dragons, and shape your destiny in the land of Skyrim.",
+  "imageUrl": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000001369/3a41386d4b0999365727a21cc5c13853cfc244abca39b689bb79a339601e48c3",
+  "releaseDate": {
+    "$date": "2011-11-11T00:00:00.000Z"
+  },
+  "publisher": "Bethesda Softworks",
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2025-05-08T20:09:43.668Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:09:43.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0f907fad01167cba1d73"
+  },
+  "name": "Mass Effect Legendary Edition",
+  "type": "RPG",
+  "description": "Relive the legend of Commander Shepard in this remastered trilogy. Lead your elite squad across a galaxy in turmoil to stop the Reapers, an ancient alien race bent on destroying all organic life.",
+  "imageUrl": "https://i.ytimg.com/vi/n8i53TtQ6IQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDXdr94NPfJlXFi2M2ipIb9r-EZNQ",
+  "releaseDate": {
+    "$date": "2021-05-14T00:00:00.000Z"
+  },
+  "publisher": "Electronic Arts",
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2025-05-08T20:09:52.840Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:09:52.840Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0f9a7fad01167cba1d75"
+  },
+  "name": "Persona 5 Royal",
+  "type": "RPG",
+  "description": "Don the mask of Joker and join the Phantom Thieves of Hearts. Break free from the chains of modern society and stage grand heists to infiltrate the minds of the corrupt and make them change their ways!",
+  "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1687950/capsule_616x353.jpg?t=1733297467",
+  "releaseDate": {
+    "$date": "2020-03-31T00:00:00.000Z"
+  },
+  "publisher": "Atlus (Sega)",
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2025-05-08T20:10:02.581Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:10:02.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0fa37fad01167cba1d77"
+  },
+  "name": "DOOM Eternal",
+  "type": "FPS",
+  "description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. Rip and tear until it is done.",
+  "imageUrl": "https://cdn.wccftech.com/wp-content/uploads/2019/06/doom_eternal_key_art.jpg",
+  "releaseDate": {
+    "$date": "2020-03-20T00:00:00.000Z"
+  },
+  "publisher": "Bethesda Softworks",
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2025-05-08T20:10:11.234Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:10:11.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0fab7fad01167cba1d79"
+  },
+  "name": "Halo Infinite",
+  "type": "FPS",
+  "description": "When all hope is lost and humanity’s fate hangs in the balance, the Master Chief is ready to confront the most ruthless foe he’s ever faced. Step inside the armor of humanity’s greatest hero.",
+  "imageUrl": "https://images.lindependant.fr/api/v1/images/view/61d3107e3e45464a511bfee6/large/image.jpg?v=1",
+  "releaseDate": {
+    "$date": "2021-12-08T00:00:00.000Z"
+  },
+  "publisher": "Xbox Game Studios",
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2025-05-08T20:10:19.071Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:10:19.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0fb37fad01167cba1d7b"
+  },
+  "name": "Valorant",
+  "type": "FPS",
+  "description": "Blend your style and experience on a global, competitive stage. A 5v5 character-based tactical shooter where precise gunplay meets unique agent abilities. Creativity is your greatest weapon.",
+  "imageUrl": "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2021/03/Valorant.png?fit=1200%2C675&ssl=1",
+  "releaseDate": {
+    "$date": "2020-06-02T00:00:00.000Z"
+  },
+  "publisher": "Riot Games",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2025-05-08T20:10:27.554Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:10:27.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0fbc7fad01167cba1d7d"
+  },
+  "name": "NBA 2K23",
+  "type": "Sports",
+  "description": "Rise to the occasion and realize your full potential in NBA 2K23. Prove yourself against the best players in the world and showcase your talent in MyCAREER or The W.",
+  "imageUrl": "https://assets.2k.com/1a6ngf98576c/4oCqsi6G8MfDjHKhjhBtrP/d43164117e00d78c0cf85dfafeb3b906/NBA23-WEBSITE-ATHLETE_HUB-MODULE1-STD_THUMBNAIL-828x828.jpg",
+  "releaseDate": {
+    "$date": "2022-09-09T00:00:00.000Z"
+  },
+  "publisher": "2K Sports",
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2025-05-08T20:10:36.967Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:10:36.967Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0fc57fad01167cba1d7f"
+  },
+  "name": "Madden NFL 23",
+  "type": "Sports",
+  "description": "Call the shots from the front office to the field in Madden NFL 23. Experience all-new ways to control your impact with every decision with FieldSENSE™ gameplay system.",
+  "imageUrl": "https://mms.businesswire.com/media/20220819005069/en/1548563/5/MAD23_Gen5_ESRB_16x9.jpg?download=1",
+  "releaseDate": {
+    "$date": "2022-08-19T00:00:00.000Z"
+  },
+  "publisher": "EA Sports",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2025-05-08T20:10:45.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:10:45.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0fce7fad01167cba1d81"
+  },
+  "name": "F1 23",
+  "type": "Sports",
+  "description": "Be the last to brake in EA SPORTS™ F1® 23, the official videogame of the 2023 FIA Formula One World Championship™. A new chapter in the thrilling \"Braking Point\" story mode delivers high-speed drama.",
+  "imageUrl": "https://media.contentapi.ea.com/content/dam/ea/f1/f1-23/common/featured-image/f123-featured-image-16x9.jpg.adapt.crop16x9.1023w.jpg",
+  "releaseDate": {
+    "$date": "2023-06-16T00:00:00.000Z"
+  },
+  "publisher": "EA Sports",
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2025-05-08T20:10:54.560Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:10:54.560Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0fd67fad01167cba1d83"
+  },
+  "name": "StarCraft II: Wings of Liberty",
+  "type": "Strategy",
+  "description": "Command vast armies of terran, zerg, and protoss in this epic real-time strategy game. Lead cinematic single-player campaigns, engage in intense multiplayer battles, and master the art of war.",
+  "imageUrl": "https://i.ytimg.com/vi/C7HbJvZQ1l8/maxresdefault.jpg",
+  "releaseDate": {
+    "$date": "2010-07-27T00:00:00.000Z"
+  },
+  "publisher": "Blizzard Entertainment",
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2025-05-08T20:11:02.631Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:11:02.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0fde7fad01167cba1d85"
+  },
+  "name": "Age of Empires IV",
+  "type": "Strategy",
+  "description": "Make History Your Story. Return to one of the most beloved real-time strategy franchises with Age of Empires IV, putting you at the center of epic historical battles that shaped the world.",
+  "imageUrl": "https://i.ytimg.com/vi/nOqnYwO7_T8/maxresdefault.jpg",
+  "releaseDate": {
+    "$date": "2021-10-28T00:00:00.000Z"
+  },
+  "publisher": "Xbox Game Studios",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2025-05-08T20:11:10.691Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:11:10.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d0fe77fad01167cba1d87"
+  },
+  "name": "XCOM 2",
+  "type": "Strategy",
+  "description": "Earth has changed. Twenty years have passed since world leaders offered an unconditional surrender to alien forces. XCOM, the planet’s last line of defense, was left decimated and scattered. Now, you must rebuild XCOM and ignite a global resistance.",
+  "imageUrl": "https://cdn1.epicgames.com/offer/7ec453d446194b8f8afe82aaa9561211/XCOM2_Set_Up_Assets_2560x1440_2560x1440-24cabf9f3c4eedd602a340a4658b2278",
+  "releaseDate": {
+    "$date": "2016-02-05T00:00:00.000Z"
+  },
+  "publisher": "2K Games",
+  "rating": 4.7,
+  "createdAt": {
+    "$date": "2025-05-08T20:11:19.577Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T20:11:19.577Z"
+  },
+  "__v": 0
+}]
